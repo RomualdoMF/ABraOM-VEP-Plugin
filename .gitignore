@@ -1,0 +1,26 @@
+# Editor files
+*.swp
+*.swo
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Perl build / test artifacts
+blib/
+*.bak
+*.log
+
+# VEP plugin temporary files
+*.cache
+*.idx
+
+# Compression/index files for ABraOM data
+*.gz
+*.tbi
+
+# Other generated files
+*.out
+*.err
